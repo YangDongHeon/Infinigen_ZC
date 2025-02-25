@@ -1,0 +1,7 @@
+[' woman', ',', ' with', ' a', ' large', ',', ' round', ',', ' pink', ' face', ',', ' and', ' a', ' pair', ' of', ' large', ',', ' round', ',', ' pink', ' eyes', ',', ' appeared', ' in', ' the', ' window', '.', ' The', ' young', ' man', '�', '�', 's', ' eyes', ',', ' which', ' had', ' been', ' fixed', ' on', ' the', ' window', ',', ' now', ' rested', ' on', ' the', ' face', ' of', ' the', ' woman', '.', ' The', ' young', ' man', '�', '�', 's', ' face', ' was', ' still', ' pale', ',', ' but', ' his', ' eyes', ' were', ' full', ' of', ' fire', '.', ' The', ' woman', ',', ' who', ' had', ' been', ' watching', ' the', ' young', ' man', ',', ' now', ' turned', ' her', ' head', ' and', ' looked', ' at', ' the', ' window', '.', ' The', ' young', ' man', ',', ' who', ' had', ' been', ' watching', ' the', ' woman', ',', ' now', ' turned', ' his', ' head', ' and', ' looked', ' at', ' the', ' window', '.', ' The', ' young', ' man', '�', '�', 's', ' eyes', ',', ' which', ' had', ' been', ' fixed', ' on', ' the', ' woman']
++++++++++++++++++++++++++++++++++++++++++++++++++
+InfiniGen_ZC
+input: 1920 output: 128 bsz: 4
++++++++++++++++++++++++++++++++++++++++++++++++++
+Total: 7.625517376043717 Prefill: 1.2275039290107088 Decode: 6.398013447033009
+=================================================
